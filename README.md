@@ -17,3 +17,6 @@ Step 4: After you have selected your variables, you must select the sample from 
 Step 5: Now that you have both your variables and sample of interest, you can view your cart and deselect all the preselected variables (YEAR, DATANUM, SERIAL, HHWT, GQ, PERNUM, PERWT). These variables are not needed and unselecting them will greatly reduced the size of the data extract.
 
 Step 6: Create your data extract. IPUMS will notify you through email when your data is processed and ready to be downloaded. Be sure to download the data and the Command File for Stata.
+
+
+![alt text](http://content.sportslogos.net/logos/34/837/thumbs/ppa6qewtd7ne5eazf84c.gif "Go Bulls.")
