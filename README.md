@@ -10,7 +10,7 @@ Step 2: After you have created and verified your account, you can now select the
 https://usa.ipums.org/usa-action/variables/group . 
 
 Step 3: You will need to pull the variables from 4 different groups: Demographic; Race, Ethnicity, and Nativity; Education; and Income.
-From my reading of the Figure and the chapter I selected the following variables: SEX and AGE (Demographic), RACE (Race, Ethnicity, and Nativity), HIGRADE and GRADEATT (Education), and INCTOT and INCWAGE (Income).
+From my reading of the Figure and the chapter I selected the following variables (though I'm sure there are other variables that would be just as valid): SEX and AGE (Demographic), RACE (Race, Ethnicity, and Nativity), HIGRADE and GRADEATT (Education), and INCTOT and INCWAGE (Income).
 
 Step 4: After you have selected your variables, you must select the sample from which you will extract the varibles. In this case, you must deselect the Default Sample from Each Year option and only select the 1980 5% state sample. Submit your sample selection.
 
