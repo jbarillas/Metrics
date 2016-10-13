@@ -20,4 +20,4 @@ Step 6: Create your data extract. IPUMS will notify you through email when your 
 
 
 <p align = "center">
-![alt text](http://content.sportslogos.net/logos/34/837/thumbs/ppa6qewtd7ne5eazf84c.gif "Go Bulls.") </p>
+<img src = "https://soflobulls.files.wordpress.com/2013/10/usf-bulls-logo-hd-1380x1100.png" alt = "Go Bulls." height = "100" width = "150") </p>
