@@ -1,4 +1,5 @@
 ***Figure 3.1.3 Replication using 1980 IPUMS
+**Use this .do file only after you've ran the Stata command file on the raw data
 *Selection: 40-49 year old white males
 numlabel, add
 keep if sex==1
