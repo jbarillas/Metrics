@@ -19,5 +19,5 @@ Step 5: Now that you have both your variables and sample of interest, you can vi
 Step 6: Create your data extract. IPUMS will notify you through email when your data is processed and ready to be downloaded. Be sure to download the data and the Command File for Stata.
 
 
-<p align = "center>
+<p align = "center">
 ![alt text](http://content.sportslogos.net/logos/34/837/thumbs/ppa6qewtd7ne5eazf84c.gif "Go Bulls.") </p>
