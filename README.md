@@ -1,4 +1,4 @@
-# Metrics - Figure 3.1.3
+# Metrics--- Replicate Figure 3.1.3
 
 Extracting IPUMS 1980 data to replicate Figure 3.1.3 from Angrist & Pischke (2009) 
 
